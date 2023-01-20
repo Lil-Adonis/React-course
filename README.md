@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 DIdn't really write any line of code today
 watched React css course section and all i could say is it really doesnt make sense but it is what it is.external css, styled component, dynamic css props in styled component, css modules!!! bruhhh WTF
 creating a wrapper component and some other bullshits like portals and fragment
+moving to useEffect,useRef
